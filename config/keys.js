@@ -1,8 +1,8 @@
 require('dotenv').config();
 
 module.exports = {
-    googleClientID: process.env.googleClientID,
-    googleClientSecret: process.env.googleClientSecret,
-    mongoURI: process.env.mongoURI,
-    cookieKey: process.env.cookieKey
+    googleClientID: process.env.GOOGLE_CLIENT_ID,
+    googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
+    mongoURI: process.env.MONGO_URI,
+    cookieKey: process.env.COOKIE_KEY
 }
