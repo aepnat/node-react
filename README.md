@@ -1,4 +1,5 @@
 ## Node React
+[https://node-react-aepnat.herokuapp.com](https://node-react-aepnat.herokuapp.com)
 
 ### Instalation
 
@@ -10,3 +11,10 @@
 ### Run Server and Client
 
 1. Root folder using command `yarn run dev`
+
+### Stacks
+
+- [Heroku for Server](https://heroku.com)
+- [Google API for Sign in](https://console.developers.google.com/)
+- [MongoDB Atlas for Cloud MongoDB](https://cloud.mongodb.com)
+- [Stripe for payment](https://stripe.com)
